@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "WinForms\WinForms.csproj", "{D6DBA4BC-6E61-4C8A-A4CA-992FA9B535CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{A47F470D-D450-4A10-9BEB-205253A09CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{FDF32990-3AF6-4CB8-B905-D569D625BBC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DBA4BC-6E61-4C8A-A4CA-992FA9B535CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DBA4BC-6E61-4C8A-A4CA-992FA9B535CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DBA4BC-6E61-4C8A-A4CA-992FA9B535CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DBA4BC-6E61-4C8A-A4CA-992FA9B535CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47F470D-D450-4A10-9BEB-205253A09CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47F470D-D450-4A10-9BEB-205253A09CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47F470D-D450-4A10-9BEB-205253A09CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47F470D-D450-4A10-9BEB-205253A09CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF32990-3AF6-4CB8-B905-D569D625BBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF32990-3AF6-4CB8-B905-D569D625BBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF32990-3AF6-4CB8-B905-D569D625BBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF32990-3AF6-4CB8-B905-D569D625BBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {830B6684-F1DD-4CB9-BB72-730E4A3640E9}
+	EndGlobalSection
+EndGlobal
